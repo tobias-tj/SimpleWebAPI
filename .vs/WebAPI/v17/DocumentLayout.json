@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjara\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tjara\\Desktop\\Projects\\csj-backend\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|c:\\users\\tjara\\source\\repos\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8262118-A0CA-4845-AFD9-3C0F77FDF547}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:04:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:43:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Models\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Models\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:39:58.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Models\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Models\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:39:01.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:24:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "WebAPI\\Custom\\Utilidades.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:10:09.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T14:09:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\Desktop\\Projects\\csj-backend\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Projects\\csj-backend\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\tjara\\Desktop\\Projects\\csj-backend\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Projects\\csj-backend\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:41:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T20:24:37.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbpruebaContext.cs",
+              "DocumentMoniker": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Models\\DbpruebaContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DbpruebaContext.cs",
+              "ToolTip": "C:\\Users\\tjara\\source\\repos\\WebAPI\\WebAPI\\Models\\DbpruebaContext.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DbpruebaContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:05:54.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
